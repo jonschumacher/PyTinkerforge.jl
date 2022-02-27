@@ -15,7 +15,7 @@ Compat = "3.25"
 DocStringExtensions = "0.8.6"
 PyCall = "1.93.0"
 Conda = "1.7.0"
-julia = "1.7"
+julia = "1.4"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
