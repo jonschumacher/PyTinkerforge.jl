@@ -1,7 +1,7 @@
 name = "PyTinkerforge"
 uuid = "7f8b0ca4-cb0e-484e-9ab2-c46751bbb33a"
 authors = ["Jonas Schumacher <github735@jonasschumacher.de>"]
-version = "2.1.28"
+version = "2.1.30"
 
 [deps]
 Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
